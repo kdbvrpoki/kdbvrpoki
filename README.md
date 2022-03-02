@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kdbvrpoki
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in [Python / PHP / AI and all things Crypto]
+- 🌱 I’m currently learning everyday
+- 💞️ I’m looking to collaborate / ready to learn
 - 📫 How to reach me > kdbvr.poki[at]gmail.com <
 
 <!---
